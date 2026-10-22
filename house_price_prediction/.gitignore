@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+artifacts/*.joblib
+artifacts/metrics.json
+.streamlit/
